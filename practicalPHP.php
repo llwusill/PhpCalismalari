@@ -37,7 +37,7 @@ printf("[%-12s]\n",$s);
 printf("[%012s]\n",$s);
 printf("[%'#12s]\n",$s);
 
-$sh = "Rasmus Lerdo";
+$sh = "Rasmus Lerdorenesa";
 printf("[%12.4s]\n",$sh);
 printf("[%-12.12s]\n",$sh);
 printf("[%-'@12.10s]\n",$sh);
