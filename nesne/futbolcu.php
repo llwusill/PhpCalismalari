@@ -10,9 +10,12 @@
     public function golAt(){
           $this->gol++;
       }
-      public function assistYap($sayi){
+    public function assistYap($sayi){
           $this->assist+=$sayi;
         }
+    public function takimdegis($yeni){
+          $this->takim=$yeni;
+    }
 
     }
 

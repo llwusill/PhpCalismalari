@@ -26,6 +26,10 @@
   $messi->assistYap(10);
   echo "Messi'nin assists sayisi :".$messi->assist;
   echo "<br>";
+  $messi->takimdegis("Bayern Munich");
+  echo "Messi'nin yeni takımı : ".$messi->takim;
+  echo "<br>";
+
 
   $Barcelona = new takim();
   $Barcelona->ad = "Barcelona";
