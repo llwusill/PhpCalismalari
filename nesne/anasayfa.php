@@ -1,5 +1,6 @@
 <?php
-
+// dosya içinde dosya için localhost:xxxx/nesne/anasayfa.php
+// örneğin benimki -> http://localhost:8888/nesne/anasayfa.php
   include ("futbolcu.php");
   include ("takim.php");
 
