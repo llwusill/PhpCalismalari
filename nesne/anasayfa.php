@@ -33,5 +33,5 @@
   echo "<br>";
   $Barcelona->takimbilgi();
 
-printf("\n\n <span style='color:#%X%X%X'>Deneysel renk çalışması</span>", 40, 217,143);
+printf("\n\n <span style='color:#%x%x%x'>Deneysel renk çalışması</span>", 40, 217,143);
  ?>
